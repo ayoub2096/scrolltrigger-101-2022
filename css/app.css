@@ -44,6 +44,10 @@ h1 {
 }
 #project02 h2 {
     color: #75C695;
+   
+}
+#project02{
+    transition: all 2s ease-in-out;
 }
 #project03 h2 {
     color: #F5876F;
@@ -97,4 +101,9 @@ h1 {
 }
 .footer-container a {
     color: rgba(255, 255, 255, 0.5); 
+}
+
+.active {
+    background-color: #F5876F;
+
 }
